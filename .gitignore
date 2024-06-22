@@ -1,0 +1,4 @@
+/target
+geckodriver
+.DS_Store
+.env
